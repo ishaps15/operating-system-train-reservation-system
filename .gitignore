@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+train_system
+run_tests
+
+# Core dumps and logs
+core
+*.log
+
+# Binary databases (can be regenerated from sql/seed_data.sql)
+data/*.dat
+data/*.wal
+data/*.lock
+
+# Toolchain symlinks
+toolchain
