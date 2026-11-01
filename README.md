@@ -1,5 +1,13 @@
 # Operating System-Based Train Ticket Reservation System
 
+[![C/SQL Build & Concurrency CI](https://github.com/ishaps15/operating-system-train-reservation-system/actions/workflows/ci.yml/badge.svg)](https://github.com/ishaps15/operating-system-train-reservation-system/actions)
+[![Language: C99/C11](https://img.shields.io/badge/Language-C99%20%2F%20C11-00599C?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Database: MySQL / MariaDB](https://img.shields.io/badge/Database-MySQL%20%2F%20MariaDB-4479A1?logo=mysql&logoColor=white)](https://mariadb.org/)
+[![Concurrency: POSIX pthreads](https://img.shields.io/badge/Concurrency-POSIX%20pthreads-FF6F00)](https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/pthread.h.html)
+[![Networking: TCP Sockets](https://img.shields.io/badge/Networking-BSD%20%2F%20POSIX%20Sockets-4B8BBE)](https://en.wikipedia.org/wiki/Berkeley_sockets)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Platform: Linux / POSIX](https://img.shields.io/badge/Platform-Linux%20%2F%20POSIX-FCC624?logo=linux&logoColor=black)](https://kernel.org)
+
 **Location:** Durgapur, West Bengal  
 **Duration:** May 2025 – July 2025  
 **Core Stack:** C (C99/C11), SQL (MySQL / MariaDB & Embedded Relational Engine), POSIX Concurrency (`pthread`, `fcntl`, TCP Sockets, Signals)
